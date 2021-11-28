@@ -7,5 +7,4 @@
 window.alert("this is Alert Box");
 
 ```
-
-![Uploading s3.PNG…]()
+![s4](https://user-images.githubusercontent.com/95132357/143728761-8d6d909c-75ef-4d11-8be2-088d124ebcac.png)
